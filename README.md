@@ -1,2 +1,2 @@
 Testando GIT
-Alterando GIT
+testando conflitosGIT
